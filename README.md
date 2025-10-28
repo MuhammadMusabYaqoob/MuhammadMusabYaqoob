@@ -60,7 +60,7 @@
 ## 💼 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/MuhammadMusabYaqoob/Knowledge-Transfer-Agent">
+  <a href="[https://github.com/MuhammadMusabYaqoob/Knowledge-Transfer-Agent](https://github.com/MuhammadMusabYaqoob/Knowledge-Transfer-Agent)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadMusabYaqoob&repo=Knowledge-Transfer-Agent&theme=tokyonight" />
   </a>
   <a href="https://github.com/MuhammadMusabYaqoob/AI-Semantic-Analytics-Agent">
@@ -111,3 +111,4 @@ Let’s build something impactful together! 🚀
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%" />
 </p>
+
