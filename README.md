@@ -4,7 +4,7 @@
 <p align="center">
  <a href="mailto:mmusab.yaqoob@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://linkedin.com/in/musabyaqoob" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://github.com/MuhammadMusabYaqoob" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://github.com/muhammadmusabyaqoob" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 > _"Turning data into intelligence and intelligence into action."_
 
 I'm an **AI Engineer Intern at Solutyics**, passionate about designing intelligent systems that solve real-world problems.  
-Currently, I’m **learning and sharpening my skills in Machine Learning, Deep Learning, and Generative AI**, with a focus on creating scalable, efficient, and human-centered AI solutions.
+I’m currently **learning advanced AI systems and sharpening my skills** in model optimization, intelligent automation, and RAG-based applications.
 
 I specialize in:
 
@@ -30,7 +30,7 @@ I specialize in:
 - 🧠 **Expertise**: ML · DL · NLP · CV  
 - ⚙️ **Project**: Knowledge-Transfer-Agent  
 - 🤝 **Collab**: Real-world AI Applications  
-- 🚀 **Focus Area**: Continuous Learning & Optimization  
+- 🚀 **Learning Focus**: Deployment & Optimization  
 - 📬 **Reach Me**: mmusab.yaqoob@gmail.com  
 
 ---
@@ -69,7 +69,7 @@ I specialize in:
 
 ## 🧩 Featured Project
 
-### 🚀 [Knowledge-Transfer-Agent](https://github.com/MuhammadMusabYaqoob/Knowledge-Transfer-Agent)
+### 🚀 [Knowledge-Transfer-Agent](https://github.com/muhammadmusabyaqoob/Knowledge-Transfer-Agent)
 An **AI-based onboarding system** using **RAG**, **FastAPI**, **Gradio**, and **LangChain**, designed to enable smooth knowledge handover between employees.  
 Empowers new hires to learn faster via **document-based Q&A** and **AI-powered knowledge retrieval**.
 
@@ -78,15 +78,15 @@ Empowers new hires to learn faster via **document-based Q&A** and **AI-powered k
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMusabYaqoob&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMusabYaqoob&layout=compact&theme=react" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMusabYaqoob&theme=react" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusabyaqoob&theme=react" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,16 +95,16 @@ Empowers new hires to learn faster via **document-based Q&A** and **AI-powered k
 
 📧 **Email**: [mmusab.yaqoob@gmail.com](mailto:mmusab.yaqoob@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/musabyaqoob](https://linkedin.com/in/musabyaqoob)  
-💻 **GitHub**: [github.com/MuhammadMusabYaqoob](https://github.com/MuhammadMusabYaqoob)
+💻 **GitHub**: [github.com/muhammadmusabyaqoob](https://github.com/muhammadmusabyaqoob)
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=MuhammadMusabYaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://komarev.com/ghpvc/?username=muhammadmusabyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/MuhammadMusabYaqoob/MuhammadMusabYaqoob/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/muhammadmusabyaqoob/muhammadmusabyaqoob/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
