@@ -3,6 +3,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Muhammad+Musab!;AI%2FML+Engineer;AI+Engineer+Intern+at+Solutyics;Building+Intelligent+AI+Systems+⚙️" alt="Typing Animation" />
 </p>
 
+---
+
+## 🔥 Highlights
+
+- 🧠 **Expertise**: Machine Learning · Deep Learning · NLP · Computer Vision  
+- ⚙️ **Projects**: Knowledge Transfer Agent, Object Detection (YOLOv11), Semantic Analytics Agent  
+- 🤝 **Collab**: AI, RAG Systems, Intelligent Apps, and Automation  
+- 🚀 **Help Needed**: Model Optimization, Scalable Deployment  
+- 📬 **Reach Me**: musabyaqoob786@gmail.com  
 
 ---
 
@@ -14,35 +23,54 @@
 
 ---
 
-### 🧩 Core Expertise  
-✅ **Machine Learning & Deep Learning** – Model design, training, and optimization  
-✅ **Natural Language Processing** – LLMs, RAG systems, Chatbots, Text Analysis  
-✅ **Computer Vision & Generative AI** – YOLOv11, Image Processing, Prompt Engineering  
-✅ **Backend & APIs** – FastAPI, LangChain, Supabase, REST APIs  
+## 🧠 Skills & Technologies  
+
+### 🐍 Languages & Libraries  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3C5280?style=for-the-badge)
+
+### 🧠 AI & ML  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 💬 NLP & CV Tools  
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-YOLO-FF1493?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/-NLTK-009688?style=for-the-badge)
+
+### 🧰 Tools & Platforms  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF6B6B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
-### 🧰 Tech Stack  
+## 💼 Featured Projects  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgresql,docker,git,vscode" />
+  <a href="https://github.com/MuhammadMusabYaqoob/Knowledge-Transfer-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadMusabYaqoob&repo=Knowledge-Transfer-Agent&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/MuhammadMusabYaqoob/AI-Semantic-Analytics-Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadMusabYaqoob&repo=AI-Semantic-Analytics-Agent&theme=tokyonight" />
+  </a>
 </p>
 
----
-
-### 💡 Featured Projects  
-🔹 **Knowledge Transfer Agent** – AI onboarding system using FastAPI, LangChain, Gradio & Gemini  
-🔹 **AI Semantic Analytics Agent** – Intelligent data analytics tool using PostgreSQL & LangChain  
-🔹 **Custom Object Detection (YOLOv11)** – Real-time detection and object tracking pipeline  
-
----
-
-### 🌍 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/musabyaqoob/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MuhammadMusabYaqoob" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/MuhammadMusabYaqoob/Custom-Object-Detection-YOLOv11">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadMusabYaqoob&repo=Custom-Object-Detection-YOLOv11&theme=tokyonight" />
   </a>
 </p>
 
@@ -63,31 +91,23 @@
 
 ---
 
-### 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMusabYaqoob&bg_color=0d1117&color=00C2FF&line=007ACC&point=FFFFFF&hide_border=true" width="95%"/>
+## 📫 Let's Connect!
+
+📧 **Email**: [musabyaqoob786@gmail.com](mailto:musabyaqoob786@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/musabyaqoob](https://linkedin.com/in/musabyaqoob)  
+💻 **GitHub**: [github.com/MuhammadMusabYaqoob](https://github.com/MuhammadMusabYaqoob)  
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=MuhammadMusabYaqoob&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 👁️ Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadMusabYaqoob&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="views"/>
-</p>
+## ⭐ Thanks for Visiting!
 
----
-
-### 🕒 Last Updated  
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/MuhammadMusabYaqoob/MuhammadMusabYaqoob?label=Last%20Updated&style=for-the-badge&color=0E8AEF"/>
-</p>
-
----
-
-### ⚡ Quote  
-> “AI is not the future — it’s what we’re building today.” 🚀
+If you find my work useful, please ⭐ **star** my repositories.  
+Let’s build something impactful together! 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="100%" />
 </p>
-
