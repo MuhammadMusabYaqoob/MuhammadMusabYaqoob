@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Musab</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Muhammad+Musab!;AI%2FML+Engineer;AI+Engineer+Intern+at+Solutyics;Building+Intelligent+AI+Systems+⚙️" alt="Typing Animation" />
 </p>
+
+
+---
+
 
 <h3 align="center">💻 AI/ML Engineer | 🤖 Building Smart Solutions with Intelligence</h3>
 
@@ -117,4 +119,5 @@ Empowers new hires to learn faster via **document-based Q&A** and **AI-powered k
 
 If you like my work, please ⭐ star my repositories.  
 Let’s build something impactful together! 🚀
+
 
