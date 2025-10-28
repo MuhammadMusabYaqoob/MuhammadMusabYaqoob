@@ -2,7 +2,7 @@
 <h3 align="center">💻 AI/ML Engineer | 🤖 Building Smart Solutions with Intelligence</h3>
 
 <p align="center">
- <a href="mailto:muhammadmusabyaqoob@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="mailto:mmusab.yaqoob@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://linkedin.com/in/musabyaqoob" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://github.com/MuhammadMusabYaqoob" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -14,14 +14,14 @@
 > _"Turning data into intelligence and intelligence into action."_
 
 I'm an **AI Engineer Intern at Solutyics**, passionate about designing intelligent systems that solve real-world problems.  
+Currently, I’m **learning and sharpening my skills in Machine Learning, Deep Learning, and Generative AI**, with a focus on creating scalable, efficient, and human-centered AI solutions.
+
 I specialize in:
 
 - 🧠 **Machine Learning & Deep Learning**
 - 🗣️ **Natural Language Processing**
 - 👁️ **Computer Vision**
 - ⚙️ **Generative AI & Intelligent Automation**
-
-Currently working on **Knowledge-Transfer-Agent**, an AI-based onboarding system built using **FastAPI, Gradio, Supabase, LangChain, and Gemini** that helps employees quickly get up to speed via **document-based Q&A and RAG-powered knowledge retrieval.**
 
 ---
 
@@ -30,8 +30,8 @@ Currently working on **Knowledge-Transfer-Agent**, an AI-based onboarding system
 - 🧠 **Expertise**: ML · DL · NLP · CV  
 - ⚙️ **Project**: Knowledge-Transfer-Agent  
 - 🤝 **Collab**: Real-world AI Applications  
-- 🚀 **Help Needed**: Deployment & Optimization  
-- 📬 **Reach Me**: muhammadmusabyaqoob@gmail.com  
+- 🚀 **Focus Area**: Continuous Learning & Optimization  
+- 📬 **Reach Me**: mmusab.yaqoob@gmail.com  
 
 ---
 
@@ -93,7 +93,7 @@ Empowers new hires to learn faster via **document-based Q&A** and **AI-powered k
 
 ## 📫 Let's Connect!
 
-📧 **Email**: [muhammadmusabyaqoob@gmail.com](mailto:muhammadmusabyaqoob@gmail.com)  
+📧 **Email**: [mmusab.yaqoob@gmail.com](mailto:mmusab.yaqoob@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/musabyaqoob](https://linkedin.com/in/musabyaqoob)  
 💻 **GitHub**: [github.com/MuhammadMusabYaqoob](https://github.com/MuhammadMusabYaqoob)
 
