@@ -88,16 +88,17 @@ A complete **n8n automation workflow** that integrates **Gemini, NewsAPI, Google
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&locale=en&cache_seconds=1800" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react&cache_seconds=1800" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusabyaqoob&theme=react" alt="GitHub Streak" />
 </p>
+
 
 ---
 
@@ -124,3 +125,4 @@ If you like my work, please ⭐ star my repositories.
 Let’s build something impactful together! 🚀
 
 > _"AI: making machines smarter and humans sleep less."_
+
