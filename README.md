@@ -123,3 +123,4 @@ Let’s build something impactful together! 🚀
 
 
 
+> _"AI: making machines smarter and humans sleep less."_
