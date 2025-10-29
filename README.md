@@ -6,7 +6,6 @@
 
 ---
 
-
 <h3 align="center">💻 AI/ML Engineer | 🤖 Building Smart Solutions with Intelligence</h3>
 
 <p align="center">
@@ -36,7 +35,7 @@ I specialize in:
 ## 🔥 Highlights
 
 - 🧠 **Expertise**: ML · DL · NLP · CV  
-- ⚙️ **Project**: Knowledge-Transfer-Agent  
+- ⚙️ **Project**: Knowledge-Transfer-Agent · AI-Powered News Sentiment Automation  
 - 🤝 **Collab**: Real-world AI Applications  
 - 🚀 **Learning Focus**: Deployment & Optimization  
 - 📬 **Reach Me**: mmusab.yaqoob@gmail.com  
@@ -75,22 +74,25 @@ I specialize in:
 
 ---
 
-## 🧩 Featured Project
+## 🧩 Featured Projects
 
 ### 🚀 [Knowledge-Transfer-Agent](https://github.com/muhammadmusabyaqoob/Knowledge-Transfer-Agent)
 An **AI-based onboarding system** using **RAG**, **FastAPI**, **Gradio**, and **LangChain**, designed to enable smooth knowledge handover between employees.  
 Empowers new hires to learn faster via **document-based Q&A** and **AI-powered knowledge retrieval**.
+
+### ⚙️ [AI-Powered News Sentiment Automation](https://github.com/muhammadmusabyaqoob/AI-Powered-News-Sentiment-Automation)
+A complete **n8n automation workflow** that integrates **Gemini, NewsAPI, Google Sheets, and Gmail** to automatically extract email topics, fetch related news, perform sentiment analysis, and send daily AI summaries.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&locale=en&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -120,7 +122,5 @@ Empowers new hires to learn faster via **document-based Q&A** and **AI-powered k
 
 If you like my work, please ⭐ star my repositories.  
 Let’s build something impactful together! 🚀
-
-
 
 > _"AI: making machines smarter and humans sleep less."_
