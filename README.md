@@ -88,30 +88,16 @@ A complete **n8n automation workflow** that integrates **Gemini, NewsAPI, Google
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- 🧠 Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadMusabYaqoob&show_icons=true&theme=react&locale=en&cache_seconds=1800&v=2" 
-    alt="GitHub Stats" 
-    width="48%" 
-  />
-
-  <!-- 💡 Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMusabYaqoob&layout=compact&theme=react&cache_seconds=1800&v=2" 
-    alt="Top Languages" 
-    width="48%" 
-  />
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammadmusabyaqoob&show_icons=true&theme=react&locale=en&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- 🔥 Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMusabYaqoob&theme=react&v=2" 
-    alt="GitHub Streak" 
-    width="95%" 
-  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmusabyaqoob&layout=compact&theme=react&cache_seconds=1800" alt="Top Languages" />
 </p>
 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmusabyaqoob&theme=react" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -138,5 +124,3 @@ If you like my work, please ⭐ star my repositories.
 Let’s build something impactful together! 🚀
 
 > _"AI: making machines smarter and humans sleep less."_
-
-
