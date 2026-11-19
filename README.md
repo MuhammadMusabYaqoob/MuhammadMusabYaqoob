@@ -67,9 +67,11 @@ Always eager to learn, explore, and dig deeper.
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3C5280?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -82,6 +84,8 @@ Always eager to learn, explore, and dig deeper.
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
@@ -89,7 +93,7 @@ Always eager to learn, explore, and dig deeper.
 
 ## 🧩 Featured Projects
 
-### 🛒 P7 – Full-Stack E-commerce Application
+### 🛒 [Full-Stack E-commerce Application](https://github.com/MuhammadMusabYaqoob/E-commerce-Full-Stack-Web-Application)
 
 **Vue.js | Node.js | Express.js | PostgreSQL | MongoDB | Axios | Cloudinary | Tailwind CSS**
 
@@ -114,17 +118,21 @@ Allows new hires to ask questions about company documents using document-based Q
 
 An automation workflow that extracts email topics, fetches related news, performs sentiment analysis, and sends daily AI-generated summaries.
 
-### 🤖 AI Voice Customer Support Agent
+### 🤖 [AI Voice Customer Support Agent](https://github.com/MuhammadMusabYaqoob/AI-Voice-Customer-Support-Agent)
 
 **Python | Whisper | Gemini | gTTS | Gradio**
 
 Developed an AI-powered voice and text customer support system with speech-to-text, conversational AI, and text-to-speech capabilities.
 
-### 📊 Semantic Analytics Agent
+### 🐳 [Jenkins & Docker CI/CD Demo](https://github.com/MuhammadMusabYaqoob/jenkins-docker-demo)
 
-**Python | LLMs | SQL | Data Visualization**
+**Jenkins | Docker | CI/CD | Nginx**
 
-Built a system that converts natural language questions into database queries and presents results through simple visualizations.
+Created a Jenkins pipeline to automate Docker image building and container deployment.
+
+- Built Docker images using a Jenkins pipeline.
+- Automated stopping and removing existing containers.
+- Deployed updated containers using Docker.
 
 ---
 
